@@ -8,7 +8,7 @@ public class CustomerMsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerMsApplication.class, args);
-		System.out.println("hello");
+		System.out.println("hello baby");
 	}
 
 }
